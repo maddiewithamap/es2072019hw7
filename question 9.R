@@ -18,3 +18,13 @@ setwd("C:/Users/scasirati/Desktop/Environmental Data Analysis/Environmental Data
 loc <- read_excel("data/ca_ozone/location.xls")
 loc
 sansanta(loc)
+
+#set working drive at beginning of code as a regular step. This can help with context from the file names
+#and understanding where the data is coming from
+#add comments to tell user what your steps do- the variable names are nice and concise, but without context
+#may not be helpful
+#for example, I know what tabella has in it because we all had the same assignment, but another user would
+#need more information if they wanted to use it or manipulate it into something different.
+
+#The code is nice and streamline and aesthetically pleasing
+#Nice print statement
